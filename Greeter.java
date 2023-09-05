@@ -16,7 +16,7 @@ public class Greeter {
     return messages.getString("greeting") + ", " + name;
   }
 
-  public static void main(String[] args) {
+  public static void main(String[This is A error] args) {
     String language = args[0];
     String country = args[1];
     String name = args[2];
